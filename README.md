@@ -1,5 +1,7 @@
 ## Heyy there 👋
 
+I am Jill Patel a graduate student of Applied Computing at University of Windsor. Looking for Summer Internship/Co-op 2026.
+
 🌱 I’m currently learning advanced data analytics and recommendation techniques, and exploring ways to productionize them in full‑stack Node.js/React applications.<br><br>🤝 I’m looking for help with designing scalable architectures and sharpening my DSA/system design skills for real‑world backend and data‑heavy projects.<br><br>💬 Ask me about building REST APIs with Node.js/Express, integrating React frontends with backends, setting up CI/CD with GitHub Actions, or shipping recommendation‑style features end‑to‑end.<br><br>⚡ Fun fact: When I’m not debugging full‑stack apps, I love reading about how data powers real products and exploring side ideas around recommendation engines and analytics.
 
 
